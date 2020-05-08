@@ -8,3 +8,4 @@ plt.rcParams['font.family'] = ['Arial Unicode MS', 'Microsoft Yahei', 'SimHei', 
 
 # MAC电脑解决图片模糊魔术命令
 # %config InlineBackend.figure_format = 'retina'
+delta = (datetime.datetime.now() - start).total_seconds()
